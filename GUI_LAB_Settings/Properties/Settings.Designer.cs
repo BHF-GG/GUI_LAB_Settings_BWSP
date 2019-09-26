@@ -37,7 +37,7 @@ namespace GUI_LAB_Settings.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Bertram")]
         public string Name {
             get {
                 return ((string)(this["Name"]));
